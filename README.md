@@ -4,7 +4,7 @@ Chào mừng bạn đến với dự án **Portfolio Cá Nhân** của **Trần 
 
 ## 📸 Screenshot
 
-![Screenshot](link-anh)
+![Screenshot](images/screenshot.png)
 
 ---
 
